@@ -1,1 +1,1 @@
-rabbitmq:3.13.7-management
+apache/kafka:3.7.2
