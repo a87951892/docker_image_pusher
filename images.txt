@@ -1,1 +1,1 @@
-nacos:latest
+elasticsearch:latest
